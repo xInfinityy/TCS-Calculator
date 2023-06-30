@@ -11,10 +11,10 @@ EMISSION_FACTORS = {
 }
 
 # Set wide layout and page name
-st.set_page_config(layout="wide", page_title="Personal Carbon Calculator")
+st.set_page_config(layout="wide", page_title="The Climate Spectrum's Carbon Footprint Calculator")
 
 # Streamlit app code
-st.title("Personal Carbon Calculator App ⚠️")
+st.title("The Climate Spectrum's Carbon Footprint Calculator 👣")
 
 # User inputs
 st.subheader("🌍 Your Country")
